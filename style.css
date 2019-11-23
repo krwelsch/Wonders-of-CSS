@@ -1,0 +1,65 @@
+<head>>
+<style>
+
+  h2 {
+    color: black;
+    font-weight: bolder;
+  }
+
+  h1  {
+    text-align: center;
+  }
+
+  p {
+    font-size: 16px;
+  }
+  
+  #styledImage {
+    width: 429px;
+    border: 18pt purple;
+    border-style: solid;
+  }
+
+  .Green {
+    color: green;
+  }
+
+  .styledFont {
+    font-style: italic;
+  }
+
+  .Red {
+    color: red;
+  }
+
+  .Blue {
+    color: blue;
+  }
+
+  .BF {
+    font-size: 24px;
+  }
+
+  .SF {
+      font-size: 8px;
+  }    
+
+  .Al {
+      text-align: center;
+  }
+
+  .Bold {
+      font-weight: bold;
+  }
+
+  .FT {
+      font-family: fantasy;
+  }
+
+  .Multiple {
+      font-weight: bold;
+      font-size: 24px;
+      color: orange;
+  }
+</style>
+</head>
